@@ -21,7 +21,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-  "lightningcss": "^1.32.0"
+  "scrollreveal": "^4.0.9"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",
